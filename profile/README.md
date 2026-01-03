@@ -21,11 +21,7 @@ We believe that the distance between a dream and reality is called **Action**. O
 
 ## 📱 The Portfolio (2026 Roadmap)
 
-| App Name | Status | Description |
-| :--- | :--- | :--- |
-| **NoMoreSmoke** | 🛠️ In Development | A sophisticated companion to help users reclaim their health and master self-control. |
-| *Upcoming Project B* | 💡 Concept | [Pending Inspiration] |
-| *Upcoming Project C* | 💡 Concept | [Pending Inspiration] |
+loading ...
 
 ---
 
@@ -41,7 +37,6 @@ We leverage modern, scalable technologies to ensure that even the smallest idea 
 
 We are always open to feedback, collaboration, or just a conversation about self-driven growth.
 
-- **Support & Inquiries:** [support@deardoor.github.io](mailto:your-email@example.com)
 - **Official Portal:** [deardoor.github.io](https://deardoor.github.io)
 
 ---
